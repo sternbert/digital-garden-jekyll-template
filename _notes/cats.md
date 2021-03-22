@@ -1,6 +1,7 @@
 ---
 title: A note about cats
 ---
+Testing if this works. If you see this, it works!
 
 This is a second note with a poem with cats. 
 
