@@ -1,5 +1,5 @@
 ---
-title: Your first seed
+title: My first seed
 ---
 
 ### Welcome!
