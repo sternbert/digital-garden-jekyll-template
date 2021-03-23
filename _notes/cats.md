@@ -1,22 +1,17 @@
 ---
-title: A note about cats
+title: A note on ambition
 ---
-Testing if this works. If you see this, it works!
+Ambition in the traditional sense seizes on what we can contemplate as possible in a particular moment: we can only be ‘ambitious’ towards those things we can presently imagine. 
 
-This is a second note with a poem with cats. 
+There is often pressure to have a set of clear goals and plans to work towards. Otherwise, how will you achieve success? But this view of ambition shines a light on its limits, and how creating a path for ourselves may mean that we don’t explore the forest. 
 
-Here's a link to a note that explains why it's important to [[move your body every day]].
+A better way to approach ambition is to be guided by a set of values and qualities. For example, to [[Make decisions based on what will ‘enlarge’ us over what makes us happy]] - this is ambitious in pushing us beyond our current state, but it doesn’t tie us to a particular course of action.
 
-> I like my pillow, my fancy bed,
->
-> My cat tree and the bathroom sink.
->
-> Each has its time and fills a need,
->
-> but a box is best when I want to think.
+- - - -
+## References
+_Consolations_ by David Whyte - 
 
-You can create as many notes as you want.
+> “We may direct the beam of ambition to illuminate a certain corner of the world, but ultimately it can reveal to us only those dreams with which we have already become familiar.” (p.9)  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et risus at ipsum pharetra pellentesque vel in massa. Nam ornare, velit sed pulvinar gravida, justo ipsum eleifend augue, id porta velit eros vestibulum odio. Vestibulum dignissim malesuada sapien, eu volutpat lacus pellentesque et. Curabitur dui nisi, sagittis ut tempor ac, scelerisque in diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum vitae euismod ex. Morbi lacinia iaculis tempor.
+> “Ambition is desire frozen, the current of a vocational life immobilised and over-concretised to set, unforgiving goals.” (p.8)  
 
-Nunc porttitor lacus ullamcorper mauris porttitor feugiat. Vestibulum condimentum lacus vitae orci lobortis pellentesque in ac dolor. Nullam libero justo, suscipit id suscipit vel, tincidunt vitae lectus. Phasellus gravida iaculis ligula, at pharetra urna. Nunc vel tellus eleifend, aliquet magna non, condimentum est. Pellentesque vulputate posuere felis eget sodales. Cras finibus tortor porta libero bibendum, vel bibendum orci luctus. Donec ac eros vitae erat malesuada imperdiet at tempor turpis.
