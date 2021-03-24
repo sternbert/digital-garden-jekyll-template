@@ -19,3 +19,4 @@ Like a physical garden, the components of a thriving digital garden are alive: e
 * It's a mechnanism to build connections between ideas, and learn how to put things into my own words. Each idea may already exist separately in the world, but only my garden will have each of these seeds planted together. 
 * Not just regurgitating facts or quotes, but forcing me to engage with the material. What do I make of it? What do I think about this? How might this be relevant to my own life? What do I believe? How does this affect / change what I think, value and believe? 
 
+## [[Other digital gardens]]
