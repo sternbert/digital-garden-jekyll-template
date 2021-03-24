@@ -1,6 +1,7 @@
---
+---
 title: What is a digital garden?
---
+---
+
 <img src="/assets/cupid-in-garden.jpg"/>
 
 I think of digital gardens as akin to a ‘choose your own adventure’ of knowledge and ideas. Instead of reading chronologically or in a pre-defined order, a digital garden invites interaction and exploration by the user, and different journeys and destinations with each use. 
