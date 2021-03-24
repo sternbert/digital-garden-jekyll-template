@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-(<img src="/assets/woman-writing.jpg"/>)
+(<img src="/assets/woman-writing.png"/>)
 
 Hello! I'm Sophie (aka Stern Bert). I'm using this site as an experiment in personal note-taking, knowledge management self-development.
 
