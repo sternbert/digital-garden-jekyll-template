@@ -1,4 +1,6 @@
-# Effective people have a strong vision of what they’d like to achieve
+---
+title: Effective people have a strong vision of what they’d like to achieve
+---
 
 ## Why is a vision important? 
 * A big, ambitious goal gets you excited and makes you want to get up in the morning. It makes things exciting and worthwhile. When you don’t do this, you can get stuck in the rut of the everyday. 
@@ -10,8 +12,8 @@
 	* What sort of person would I like to become? 
 	* What areas am I interested in? Why are those areas interesting?
 	* How am I going to achieve competence in those areas?
-	* How am I going to continue growing and expanding my horizons?/ 
-	* What short-term steps will I take to to achieve those goals?/ 
+	* How am I going to continue growing and expanding my horizons?
+	* What short-term steps will I take to to achieve those goals?
 	* How will I balance the long-term goals with the short-term realities of the situation I find myself in?
 
 ## Remember:
@@ -20,5 +22,5 @@
 
 - - - -
 ## References
-All of the above was drawn from the essay by Michael A. Nielsen, [/Principles of effective research Technical note 0404/](https://www.bumc.bu.edu/preventive-med/files/2020/06/Principls-of-effective-reserache-nielsen-0404.pdf), dated 27 July 2004. Found via [Andy Matuschak’s notes](https://notes.andymatuschak.org/z2Zh745BsDC3CbVwCbm2aRvaVfqBR6KUpxXE) 
+All of the above was drawn from the essay by Michael A. Nielsen, [Principles of effective research Technical note 0404/(https://www.bumc.bu.edu/preventive-med/files/2020/06/Principls-of-effective-reserache-nielsen-0404.pdf), dated 27 July 2004. Found via [Andy Matuschak’s notes](https://notes.andymatuschak.org/z2Zh745BsDC3CbVwCbm2aRvaVfqBR6KUpxXE) 
 
