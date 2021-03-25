@@ -4,7 +4,7 @@ title: What is a digital garden?
 
 <img src="/assets/cupid-in-garden.jpg"/>
 
-I think of digital gardens as akin to a ‘choose your own adventure’ of knowledge and ideas. Instead of reading chronologically or in a pre-defined order, a digital garden invites interaction and exploration by the user, and different journeys and destinations with each use. 
+I think of digital gardens as akin to a [‘choose your own adventure’](http://interconnected.org/home/2021/03/08/zeitgeist) of knowledge and ideas. Instead of reading chronologically or in a pre-defined order, a digital garden invites interaction and exploration by the user, and different journeys and destinations with each use. 
 
 Digital gardens seem to live quite harmoniously with the [[Zettelkasten]] system of note-taking and personal knowledge management, built on atomic notes with interconnections, rather than polished articles arranged chronologically or only relevant at a certain point in time.
 
