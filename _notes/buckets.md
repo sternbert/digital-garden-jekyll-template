@@ -19,7 +19,7 @@ When assessing my buckets, some things to think about are:
 * How do I maintain the ideal level of each bucket? (e.g. for the physical bucket: what’s my ideal amount of sleep? How much movement each day / week makes me feel good?)
 * What are the most important buckets to fill? (e.g. I feel empty if I don’t have some sort of creative input in my life, whether that’s reading a good book, seeing a movie or show, or working on a side project)
 * Which buckets do I tend to neglect and require more conscious input? (e.g. as an introvert, I can sometimes overlook the importance of the social bucket, but I always feel better after high quality interactions with close friends)
-* Which buckets feel like they are overflowing and need to be drained? (e.g. I’ve started a new job and my mind is working overtime. I need to think about how to build mental rest into my day. The Comodoro technique is good during the workday, as well as allowing plenty of time to wind down in the evening)
+* Which buckets feel like they are overflowing and need to be drained? (e.g. I’ve started a new job and my mind is working overtime. I need to think about how to build mental rest into my day. The Pomodoro technique is good during the workday, as well as allowing plenty of time to wind down in the evening)
 * Which buckets are empty or running low?
 * What is draining the buckets? Is there a way I can stop or reduce the drain?
 
@@ -34,7 +34,7 @@ When assessing my buckets, some things to think about are:
 * Drains - large gatherings
 
 #### Mental 🧠
-* Fill - good quality consumption of books / podcasts / articles, learning something new, note-taking, visiting the library or a bookstore, meditation, journalling, Pomodoro technique 
+* Fill - good quality consumption of books / podcasts / articles, [learning something new](/learning){: .internal-link}, note-taking, visiting the library or a bookstore, meditation, journalling, Pomodoro technique 
 * Drains - news overconsumption, constant noise / stimulation (not every walk / car trip needs to be accompanied by a podcast or audiobook!)
 
 #### Creative 🎨

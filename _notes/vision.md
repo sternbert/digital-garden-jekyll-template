@@ -22,5 +22,5 @@ title: Effective people have a strong vision of what they’d like to achieve
 
 - - - -
 ## References
-All of the above was drawn from the essay by Michael A. Nielsen, [Principles of effective research Technical note 0404/(https://www.bumc.bu.edu/preventive-med/files/2020/06/Principls-of-effective-reserache-nielsen-0404.pdf), dated 27 July 2004. Found via [Andy Matuschak’s notes](https://notes.andymatuschak.org/z2Zh745BsDC3CbVwCbm2aRvaVfqBR6KUpxXE) 
+All of the above was drawn from the essay by Michael A. Nielsen, [Principles of effective research Technical note 0404](https://www.bumc.bu.edu/preventive-med/files/2020/06/Principls-of-effective-reserache-nielsen-0404.pdf), dated 27 July 2004. Found via [Andy Matuschak’s notes](https://notes.andymatuschak.org/z2Zh745BsDC3CbVwCbm2aRvaVfqBR6KUpxXE) 
 
