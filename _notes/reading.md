@@ -14,6 +14,7 @@ title: My bookshelf
 
 ### Fiction
 
+*[Leave the World Behind](https://www.theguardian.com/books/2020/nov/09/leave-the-world-behind-by-rumaan-alam-review-breathtaking-and-prescient) by Rumaan Alam 
 * We Run the Tides by Vendela Vida 
 * An Absolutely Remarkable Thing by Hank Green
 * Late in the Day by Tessa Hadley
@@ -26,4 +27,3 @@ title: My bookshelf
 * The Spy and the Traitor: The Greatest Espionage Story of the Cold War by Ben MacIntyre (amazing!)
 * All Who Go Do Not Return: A Memoir by Shulem Deen
 
-![head scratching](https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/CDN/WELL/CDN_WELL_L_49777-001.jpg)
