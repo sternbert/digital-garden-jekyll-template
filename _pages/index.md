@@ -7,7 +7,7 @@ permalink: /
 
 # Hello! 👋🏻 Welcome to my digital garden  
 
-<div style="float: left; padding: 3em 1em;"">
+<div style="float: left; padding: 3em 1em;">
   <img src="/assets/cupid-in-garden.jpg"/>
 </div>
 
