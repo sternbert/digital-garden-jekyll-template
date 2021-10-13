@@ -4,7 +4,7 @@ $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
-$font-family: 'Nunito', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+$font-family: 'Bitter', -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
 
 body {
@@ -72,7 +72,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Bitter', sans-serif;
   font-weight: 700;
   line-height: 1.3;
   margin-bottom: 0;
